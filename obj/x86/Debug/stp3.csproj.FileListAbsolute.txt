@@ -1,0 +1,16 @@
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp3\stp3\stp3\obj\x86\Debug\stp3.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp3\stp3\stp3\obj\x86\Debug\stp3.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp3\stp3\stp3\obj\x86\Debug\stp3.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp3\stp3\stp3\bin\Debug\stp3.exe
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp3\stp3\stp3\bin\Debug\stp3.pdb
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp3\stp3\stp3\obj\x86\Debug\stp3.exe
+C:\Users\Александр\Documents\Visual Studio 2010\Projects\stp3\stp3\stp3\obj\x86\Debug\stp3.pdb
+C:\Users\bavyk\Downloads\stp3-main\stp3-main\bin\Debug\stp3.exe
+C:\Users\bavyk\Downloads\stp3-main\stp3-main\bin\Debug\stp3.pdb
+C:\Users\bavyk\Downloads\stp3-main\stp3-main\obj\x86\Debug\stp3.csproj.AssemblyReference.cache
+C:\Users\bavyk\Downloads\stp3-main\stp3-main\obj\x86\Debug\stp3.Form1.resources
+C:\Users\bavyk\Downloads\stp3-main\stp3-main\obj\x86\Debug\stp3.Properties.Resources.resources
+C:\Users\bavyk\Downloads\stp3-main\stp3-main\obj\x86\Debug\stp3.csproj.GenerateResource.cache
+C:\Users\bavyk\Downloads\stp3-main\stp3-main\obj\x86\Debug\stp3.csproj.CoreCompileInputs.cache
+C:\Users\bavyk\Downloads\stp3-main\stp3-main\obj\x86\Debug\stp3.exe
+C:\Users\bavyk\Downloads\stp3-main\stp3-main\obj\x86\Debug\stp3.pdb
